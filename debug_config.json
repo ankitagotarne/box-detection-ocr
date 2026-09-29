@@ -1,0 +1,10 @@
+{
+    "environment": "test",
+    "display": false,
+    "service_id": "box_detector",
+    "data": {
+        "1bfa0d51c4984801bb4ddbd760bfe9c5": {
+            "link": "rtsp://user:pass@ip:port/link"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+APScheduler==3.7.0
+opencv-python
+python-socketio[client]==5.1.0
+tritonclient[all]
+kafka-python
+grpcio==1.42.0
+confluent-kafka==1.7.0
