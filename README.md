@@ -25,8 +25,8 @@ its composed video as an RTSP stream.
 ## Requirements
 
 - An NVIDIA GPU and NVIDIA Container Toolkit configured for Docker.
-- A compatible NVIDIA driver and NVIDIA DeepStream 6.0.1 runtime. The supplied
-  Dockerfile is based on `nvcr.io/nvidia/deepstream:6.0.1-base`.
+- A compatible NVIDIA driver and NVIDIA DeepStream 7.1 runtime. The supplied
+  Dockerfile is based on `nvcr.io/nvidia/deepstream:7.1-gc-triton-devel`.
 - Network access to each configured video source.
 - A working OCR service/client integration before running the full pipeline;
   see [Current integration requirements](#current-integration-requirements).
